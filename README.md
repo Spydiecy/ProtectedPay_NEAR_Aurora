@@ -2,7 +2,7 @@
 
 ProtectedPay is a secure and user-friendly platform for cryptocurrency transfers on the Aurora blockchain. It provides a safety net for users, allowing them to recover funds sent to incorrect addresses while educating them about proper crypto transfer practices.
 
-![ProtectedPay Homepage](https://example.com/protectedpay-homepage.png)
+![Screenshot 2024-10-01 220602](https://github.com/user-attachments/assets/c7f76049-dfb8-4710-b757-f53f99ce7827)
 
 ## Features
 
@@ -15,13 +15,10 @@ ProtectedPay is a secure and user-friendly platform for cryptocurrency transfers
 ## How It Works
 
 1. **Initiate Transfer**: Send crypto to a username or address. Funds are locked in the smart contract.
-   ![Initiate Transfer](https://example.com/initiate-transfer.gif)
 
 2. **Recipient Claims**: The recipient claims the transfer using their wallet.
-   ![Claim Transfer](https://example.com/claim-transfer.gif)
 
 3. **Transfer Complete**: Funds are released to the recipient. The transfer is recorded on the blockchain.
-   ![Transfer Complete](https://example.com/transfer-complete.png)
 
 ## Usage
 
@@ -50,7 +47,7 @@ ProtectedPay is a secure and user-friendly platform for cryptocurrency transfers
 
 Check out our video demo to see ProtectedPay in action:
 
-[![ProtectedPay Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+https://youtu.be/0Xzle-nzVGQ
 
 ## Security
 
